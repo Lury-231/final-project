@@ -15,7 +15,7 @@
 - **Photo:**
 ![Huang Qiuyue](huangqiuyue.jpg)
 - **Skills:** HTML/CSS, JavaScript, Docker, Git, Web Development
-- **Bio:** Student from School of Computer Science and Engineering, North Minzu University. Passionate about web development and DevOps practices.
+- **Bio:** Junior student from School of Computer Science and Engineering, North Minzu University. Passionate about web development and DevOps practices.
 
 ### Liang Qianqian (梁倩倩)
 - **Student ID:** 20232059
@@ -23,7 +23,7 @@
 - **Photo:**
 ![Liang Qianqian](liangqianqian.png)
 - **Skills:** Python, Docker Compose, CI/CD, Cloud Computing, GitHub Actions
-- **Bio:** Student from School of Computer Science and Engineering, North Minzu University. Interested in cloud computing and DevOps practices.
+- **Bio:** Junior student from School of Computer Science and Engineering, North Minzu University. Interested in cloud computing and DevOps practices.
 
 ---
 
