@@ -11,7 +11,12 @@
 
 ### Huang Qiuyue (黄秋月)
 - **Student ID:** 20232074
-- **Role:** 50% contribution
+- **Contribution:** 50%
+- **Responsibilities:**
+  - Project setup and GitHub repository configuration
+  - Frontend development (HTML/CSS/JS)
+  - Docker containerization
+  - Website deployment
 - **Photo:**
 ![Huang Qiuyue](huangqiuyue.jpg)
 - **Skills:** HTML/CSS, JavaScript, Docker, Git, Web Development
@@ -19,7 +24,12 @@
 
 ### Liang Qianqian (梁倩倩)
 - **Student ID:** 20232053
-- **Role:** 50% contribution
+- **Contribution:** 50%
+- **Responsibilities:**
+  - CI/CD pipeline configuration (GitHub Actions)
+  - Docker Compose setup
+  - Todo application development
+  - Server deployment and monitoring
 - **Photo:**
 ![Liang Qianqian](liangqianqian.png)
 - **Skills:** Python, Docker Compose, CI/CD, Cloud Computing, GitHub Actions
