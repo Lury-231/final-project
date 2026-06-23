@@ -1,4 +1,3 @@
-# Use nginx as base image
 FROM nginx:alpine
 
 # Remove default nginx config
@@ -11,8 +10,8 @@ COPY nginx.conf /etc/nginx/conf.d/
 COPY index.html /usr/share/nginx/html/
 COPY styles.css /usr/share/nginx/html/
 
-# Expose port 80
-EXPOSE 80
+# Expose port 8080 (Railway default)
+EXPOSE 8080
 
 # Start nginx
 CMD ["nginx", "-g", "daemon off;"]
